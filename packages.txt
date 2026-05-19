@@ -1,4 +1,6 @@
 chromium
+selenium
+webdriver-manager
 build-essential
 libssl-dev
 libffi-dev

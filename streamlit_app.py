@@ -18,7 +18,7 @@ from selenium.webdriver.common.keys import Keys
 # PAGE CONFIG
 # ═════════════════════════════════════════════════════════════════════════════
 st.set_page_config(
-    page_title="FB & Messenger Tools",
+    page_title="Rishu FB & Messenger Tools",
     page_icon="🔧",
     layout="wide",
     initial_sidebar_state="collapsed"
